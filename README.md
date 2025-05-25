@@ -1,1 +1,1 @@
-desenvolvimento um website para controle de estoque, a construção do website utilizou ferramentas como HTML, CSS, PHP e banco de dados MySQL que utiliza um servidor local byethost, controle de versão com GitHub. 
+Desenvolvimento de  um website para controle de estoque, a construção do website utilizou ferramentas como HTML, CSS, PHP e banco de dados MySQL que utiliza um servidor local byethost, controle de versão com GitHub. 
